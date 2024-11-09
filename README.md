@@ -1,4 +1,6 @@
 # Tutorial video restreaming dengan ffmpeg + python
+Kamu bisa menjalankan file main.py melalui terminal dengan perintah ```python main.py``` atau jika kamu mau menjalankannya di latar belakang bisa menggunakan perintah ```nohup python main.py > output.log 2>&1 &```
+
 ## Cara Kerja main.py
 1. Buat folder files dan tmp;
 2. Membaca file data.txt dan mengekstraknya perbaris;
