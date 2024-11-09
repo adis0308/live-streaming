@@ -6,7 +6,7 @@
 4. Selesai.
 
 Catatan
-```
+---
 Kamu bisa mengakses file dengan url http://situskamu.com/files/nama folder/index.m3u8;
 Pastikan kamu telah menginstall nginx pada server dan mengaturnya supaya dapat diakses;
 Kamu bisa juga menggunakan php untuk mengamankan file index.m3u8 dengan token dan membacanya fitur nginx x-sendfile.
